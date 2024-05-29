@@ -1,5 +1,5 @@
 # Tópicos úteis publicados no canal
-#### Opa, pode chegar! 
+#### Opa, pode chegar! 👋
 #### Vou seguir atualizando essa lista com conteúdos úteis lá do canal, organizados por tópicos em ordem alfabética.
 
 --------
