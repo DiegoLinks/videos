@@ -31,5 +31,8 @@
 **[Navegar entre telas XML](https://www.youtube.com/watch?v=xqEmM2u15JQ&t=)**
   - Tutorial rápido de como navegar entre telas num aplicativo Android Nativo XML de forma básica usando Intent.
 
+**[SOLID - Simples e Com Exemplos](https://www.youtube.com/watch?v=BYydHGA86kQ)**
+  - Vídeo completo explicando cada um dos princípios do SOLID, de maneira simples e com exemplos.
+
 **[Tradução em apps Android](https://www.youtube.com/watch?v=AXGR74wuyro&t)**
   - Tutorial rápido de como criar aplicativos Android com múltiplos idiomas.
