@@ -19,7 +19,7 @@
 **[Glide com Jetpack Compose](https://www.youtube.com/watch?v=MhPV6n-7uio)**
   - Tutorial rápido de como usar a biblioteca de imagens Glide com Jetpack Compose.
 
-**[Inatagram Clone](https://www.youtube.com/watch?v=BqVtfqAxluM&list=PLkwgaJSkQE73zN-1VRuAOwOn4yW6qp5s-)**
+**[Instagram Clone](https://www.youtube.com/watch?v=BqVtfqAxluM&list=PLkwgaJSkQE73zN-1VRuAOwOn4yW6qp5s-)**
   - Mini curso em 20 episódios criando passo a passo um clone do Instagram com Jetpack Compose..
 
 **[Listas com Jetpack Compose](https://www.youtube.com/watch?v=EvdmoxOZPAI)**
@@ -36,3 +36,6 @@
 
 **[Tradução em apps Android](https://www.youtube.com/watch?v=AXGR74wuyro&t)**
   - Tutorial rápido de como criar aplicativos Android com múltiplos idiomas.
+
+**[XML x Jetpack Compose](https://www.youtube.com/watch?v=BDX_Kd98F7k&t=8s)**
+  - Conversa sobre a diferença entre as abordagens e o futuro do desenvolvimento Android.
